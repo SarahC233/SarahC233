@@ -1,6 +1,6 @@
-# Kia ora, I'm Sarah 👋
+# Hi there, I'm Sarah 👋
 
-I'm a career changer with a background in natural medicine, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning. 
+I'm a career changer with a background in naturopathy, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning. 
 
 ## 🛠️ Skills and Tools
 
@@ -21,13 +21,17 @@ I am excited about roles in software development that allow me to leverage my sk
 
 ## 💬 Let's Connect
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sarah-clarke-40aa8030b) or [Email](mailto:sarahclarke.dev@gmail.com). I am open to job opportunities, collaborations, and conversations about tech.
+Feel free to reach out to me via:
+- [![Email](https://img.icons8.com/material-outlined/24/000000/email.png) Email](mailto:sarahclarke.dev@gmail.com)
+- [![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/sarah-clarke-40aa8030b)
 
 ---
 
 ### About Me
 
-With a creative background, I bring a unique perspective to software development. My experiences in naturopathy, artistic pursuits, and education have equipped me with a holistic approach to problem-solving and a deep appreciation for continuous learning. As I transition into tech, I am eager to integrate these diverse skills into innovative software projects.
+With a creative background, I bring a unique perspective to software development. My experience in naturopathy, sculpture, and adult education has equipped me with a holistic approach to problem-solving and a deep appreciation for continuous learning. As I transition into tech, I am eager to integrate these diverse skills into innovative software projects.
+
+
 
 
 
