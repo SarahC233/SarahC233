@@ -1,3 +1,4 @@
+![Banner](./assets/banner.png)
 # Kia ora, I'm Sarah 👋
 
 I'm a career changer with a background in naturopathy, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning. 
