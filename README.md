@@ -23,11 +23,11 @@ I am excited about roles in software development that allow me to leverage my sk
 ## 💬 Let's Connect
 
 Feel free to reach out to me via:
-<a href="mailto:sarahclarke.dev@gmail.com">
+- <a href="mailto:sarahclarke.dev@gmail.com">
   <img src="https://img.icons8.com/material-outlined/24/f5f5dc/email.png" alt="Email" style="vertical-align:middle; margin-right:8px;">
   Email
   </a>
-<a href="https://www.linkedin.com/in/sarah-clarke-40aa8030b">
+- <a href="https://www.linkedin.com/in/sarah-clarke-40aa8030b">
   <img src="https://img.icons8.com/material-outlined/24/f5f5dc/linkedin.png" alt="LinkedIn" style="vertical-align:middle; margin-right:8px;">
   LinkedIn
   </a>
@@ -37,6 +37,7 @@ Feel free to reach out to me via:
 ### About Me
 
 With a creative background, I bring a unique perspective to software development. My experience in naturopathy, sculpture, and adult education has equipped me with a holistic approach to problem-solving and a deep appreciation for continuous learning. As I transition into tech, I am eager to integrate these diverse skills into innovative software projects.
+
 
 
 
