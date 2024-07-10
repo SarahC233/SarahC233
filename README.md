@@ -9,7 +9,7 @@ I am continuously expanding my skill set and currently focusing on:
 - **Languages:** JavaScript, SQL
 - **Databases:** MongoDB, MySQL
 - **Frameworks and Libraries:** React, Node.js, Express
-- **Tools and Platforms:** Git, Docker, Azure, VS Code
+- **Tools and Platforms:** Git, Docker, Azure, VS Code Postman
 - **Upcoming:** Python, AWS
 
 ## 🌱 Learning Goals
