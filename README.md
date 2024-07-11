@@ -11,6 +11,7 @@ I am continuously expanding my skill set and currently focusing on:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ios/50/e1c542/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
 </p>
 
 ### **Databases:**
@@ -39,6 +40,7 @@ I am continuously expanding my skill set and currently focusing on:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
 </p>
 
 ## 🌱 Learning Goals
