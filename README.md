@@ -6,19 +6,40 @@ I'm a career changer with a background in naturopathy, sculpture, and adult educ
 ## 🛠️ Skills and Tools
 
 I am continuously expanding my skill set and currently focusing on:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-  ![SQL](https://img.icons8.com/ios/50/e1c542/sql.png)
-  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-  ![MySQL](https://img.icons8.com/ios/50/e1c542/mysql-logo.png)
-  ![React](https://img.icons8.com/color/48/000000/react-native.png)
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-  ![Express](./assets/express.svg)
-  ![Git](https://img.icons8.com/color/48/000000/git.png)
-  ![Docker](https://img.icons8.com/color/48/000000/docker.png)
-  ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
-  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-  ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
-- **Upcoming:** ![Python](https://img.icons8.com/color/48/000000/python.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+
+### **Languages:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/ios/50/e1c542/sql.png" alt="SQL"/>
+</p>
+
+### **Databases:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/ios/50/e1c542/mysql-logo.png" alt="MySQL"/>
+</p>
+
+### **Frameworks and Libraries:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express"/>
+</p>
+
+### **Tools and Platforms:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"/>
+</p>
+
+### **Upcoming:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+</p>
 
 ## 🌱 Learning Goals
 
