@@ -1,16 +1,24 @@
 ![Banner](./assets/banner1.png)
 # Kia ora, I'm Sarah 👋
 
-I'm a career changer with a background in naturopathy, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning. 
+I'm a career changer with a background in naturopathy, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning.
 
 ## 🛠️ Skills and Tools
 
 I am continuously expanding my skill set and currently focusing on:
-- **Languages:** JavaScript, SQL
-- **Databases:** MongoDB, MySQL
-- **Frameworks and Libraries:** React, Node.js, Express
-- **Tools and Platforms:** Git, Docker, Azure, VS Code, Postman
-- **Upcoming:** Python, AWS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![SQL](https://img.icons8.com/ios/50/e1c542/sql.png)
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+  ![MySQL](https://img.icons8.com/ios/50/e1c542/mysql-logo.png)
+  ![React](https://img.icons8.com/color/48/000000/react-native.png)
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+  ![Express](./assets/express.svg)
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+  ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+  ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+  ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)
+- **Upcoming:** ![Python](https://img.icons8.com/color/48/000000/python.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 
 ## 🌱 Learning Goals
 
