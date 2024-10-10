@@ -11,8 +11,10 @@ I am continuously expanding my skill set and currently focusing on:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ios/50/e1c542/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
 </p>
+
 
 ### **Databases:**
 <p align="left">
@@ -25,7 +27,12 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/fluency/48/strapi.png" alt="Strapi"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-is-a-suite-of-tools-for-high-performance-html5-animation-logo-color-tal-revivo.png" alt="GSAP"/>
+  <img src="https://www.prismic.io/icon.png" alt="Prismic"/>
 </p>
+
 
 ### **Tools and Platforms:**
 <p align="left">
@@ -40,7 +47,7 @@ I am continuously expanding my skill set and currently focusing on:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
+ 
 </p>
 
 ## 🌱 Learning Goals
