@@ -28,9 +28,7 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/fluency/48/strapi.png" alt="Strapi"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gsap-is-a-suite-of-tools-for-high-performance-html5-animation-logo-color-tal-revivo.png" alt="GSAP"/>
-  <img src="https://www.prismic.io/icon.png" alt="Prismic"/>
+  
 </p>
 
 
