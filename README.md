@@ -48,8 +48,6 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/net-framework.png" alt=".NET"/>
-
 </p>
 
 ## 🌱 Learning Goals
