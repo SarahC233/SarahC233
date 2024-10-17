@@ -28,6 +28,7 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
+  
  
 </p>
 
@@ -47,7 +48,7 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
- 
+ <img src="https://img.icons8.com/ios-filled/50/5D87BF/dot-net.png" alt=".NET"/>
 </p>
 
 ## 🌱 Learning Goals
