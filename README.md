@@ -28,8 +28,9 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="Express"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>
-  
+  <img src="https://greensock.com/uploads/monthly_2020_09/gsap-logo.svg.4c3d02424c9c26490115adf5ed9f0f76.svg" alt="GSAP" width="48" height="48"/>
 </p>
+
 
 
 ### **Tools and Platforms:**
