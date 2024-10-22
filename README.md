@@ -57,7 +57,7 @@ I am currently diving deeper into full-stack development, focusing on modern Jav
 
 ## 🎯 Career Aspirations
 
-I am excited about roles in software development that allow me to leverage my skills in both front-end and back-end technologies. I am particularly interested in positions that involve problem-solving, continuous learning, and contributing to innovative projects.
+I am excited about roles in development that allow me to leverage my skills in both front-end and back-end technologies. I am particularly interested in positions that involve problem-solving, continuous learning, and contributing to innovative projects.
 
 ## 💬 Let's Connect
 
@@ -73,9 +73,7 @@ Feel free to reach out to me via:
 
 ---
 
-### About Me
 
-With a creative background, I bring a unique perspective to software development. My experience in naturopathy, sculpture, and adult education has equipped me with a holistic approach to problem-solving and a deep appreciation for continuous learning. As I transition into tech, I am eager to integrate these diverse skills into innovative software projects.
 
 
 
