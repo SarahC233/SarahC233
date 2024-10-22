@@ -1,6 +1,8 @@
 # Hey there, I'm Sarah 👋
 
-I'm a career changer with a background in naturopathy, sculpture, and adult education, transitioning into a career in software development. I have experience in course development, online facilitation, and team interaction, which have honed my communication and organisational skills. I'm excited to contribute my diverse skills to innovative projects and continuous learning.
+I'm a full stack developer with a background in natural medicine and education. This background means I'm super passionate about how technology can help enhance wellbeing, and how technology can make continuous learning accessible for everyone.
+I completed my software development qualification from Mission Ready in October 2024, and am continuing to grow my skills and knowledge base. 
+When I’m not coding, you’ll find me making sculptures in stainless steel, or out hiking in beautiful Aotearoa (usually with a canine friend!)
 
 ## 🛠️ Skills and Tools
 
