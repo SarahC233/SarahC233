@@ -44,14 +44,16 @@ I am continuously expanding my skill set and currently focusing on:
   <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"/>
 </p>
 
-### **Upcoming:**
+### **Currently Learning:**
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET"/>
 </p>
 
-
+### **Upcoming:**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+</p>
 
 ## 🌱 Learning Goals
 
